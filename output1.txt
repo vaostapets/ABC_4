@@ -1,0 +1,8 @@
+Container filtered. Filtration time = 5e-06
+Container contains 6 elements.
+0: CAR: fuel tank capacity = 1, fuel consumption = 6.000000, speed limit=1, range= 0.166667
+1: CAR: fuel tank capacity = 1, fuel consumption = 5.000000, speed limit=1, range= 0.200000
+2: CAR: fuel tank capacity = 1, fuel consumption = 4.000000, speed limit=1, range= 0.250000
+3: CAR: fuel tank capacity = 1, fuel consumption = 2.000000, speed limit=1, range= 0.500000
+4: CAR: fuel tank capacity = 1, fuel consumption = 3.000000, speed limit=1, range= 0.333333
+5: CAR: fuel tank capacity = 1, fuel consumption = 3.000000, speed limit=1, range= 0.333333

@@ -1,0 +1,5 @@
+Filled container:
+Container contains 3 elements.
+0: BUS: fuel tank capacity = 166, fuel consumption = 7.700000, passenger capacity = 20, range=21.558441
+1: BUS: fuel tank capacity = 94, fuel consumption = 6.800000, passenger capacity = 2, range=13.823529
+2: BUS: fuel tank capacity = 199, fuel consumption = 7.600000, passenger capacity = 17, range=26.184212
